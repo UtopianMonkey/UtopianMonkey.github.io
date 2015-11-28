@@ -3,7 +3,7 @@ published: true
 title: My Dad & I
 layout: post
 tags: [Childhood, Abusive, Father, Recollection]
-categories: [Growing, Pains]
+categories: [GrowingPains]
 ---
 “I never wanted you, I didn’t want boys”
 The words spoken by a grown man to his eight-year-old son.

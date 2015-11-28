@@ -2,7 +2,7 @@
 published: true
 title: My Dad & I
 layout: post
-tags: [ildhood, Abusive, Father, Recollection]
+tags: [Childhood, Abusive, Father, Recollection]
 categories: [Growing, Pains]
 ---
 “I never wanted you, I didn’t want boys”
